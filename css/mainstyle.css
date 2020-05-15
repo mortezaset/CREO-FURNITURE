@@ -4,4 +4,13 @@ body{
 }
 .top{
     background: url(../images/topbg.jpg) center center repeat;
+    height: 180px;
+}
+.navigation{
+    position: relative;
+    float: right !important;
+}
+.logo{
+    position: relative;
+    float: left !important;
 }
